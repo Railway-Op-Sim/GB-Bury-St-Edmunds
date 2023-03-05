@@ -1,0 +1,16 @@
+rly_file = "Bury St Edmunds.rly"
+ttb_files = [ "Bury St Edmunds 2021.ttb",]
+ssn_files = [ "Bury St Edmunds Automatic Routes Session.ssn",]
+img_files = [ "Bury St Edmunds.bmp",]
+doc_files = [ "Bury St Edmunds.md",]
+release_date = "2023-03-05"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2023
+display_name = "Bury St Edmunds"
+name = "Bury St Edmunds"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
